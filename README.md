@@ -2,4 +2,4 @@
 
 Studying on Informatics Engineering at Esa Unggul University 🧑‍🎓<br>
 Currently learning Algorithm & Programming language [C++] 📚<br><br>
-Find more about me at https://raytriputra.my.id
+Find more about me at <a href="https://raytriputra.my.id" target="_blank">Here</a>
