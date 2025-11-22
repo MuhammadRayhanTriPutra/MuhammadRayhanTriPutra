@@ -97,7 +97,6 @@ svg:hover {
     height: 25vh;
     overflow: hidden;
     overflow-y: auto;
-    scrollbar-width: none;
 }
 .skillsFrame {
     display: grid;
@@ -162,6 +161,9 @@ svg:hover {
     }
 
     /* Big Element preference */
+    header h2 {
+        font-size: larger;
+    }
     nav {
         display: none;
     }
@@ -170,10 +172,15 @@ svg:hover {
     .headingInformation {
         width: 100%;
     }
+    .postsFrame .container .title {
+        font-size: large;
+    }
+    .skillsFrame {
+        gap: 0.5rem;
+    }
     .skillCover {
         display: block;
         padding: 0;
-        
     }
     .skillCover .imageContainer {
         display: flex;
