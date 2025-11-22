@@ -147,6 +147,9 @@ svg:hover {
 .footerTitle {
     color: var(--secTextColor);
 }
+.navArrow {
+    display: none;
+}
 
 
 
@@ -190,6 +193,9 @@ svg:hover {
         text-align: center;
     }
     .skillCover .container {
+        display: none;
+    }
+    .navArrow {
         display: none;
     }
 }
