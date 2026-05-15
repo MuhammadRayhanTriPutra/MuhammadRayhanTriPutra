@@ -8,3 +8,9 @@ Welcome to my github page, feel free to checkout my repositories.
 
 🎓 Esa Unggul University Student\
 🤓 Tech Enthusiast
+
+## 🧰 Stacks
+
+<p align="left">
+  <img src="/src/Stacks.png" alt="techStacks" width="50%"/>
+</p>
